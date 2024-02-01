@@ -110,3 +110,35 @@ A prevenção é fundamental para proteger sistemas e informações sensíveis. 
 ### Conclusão
 
 A segurança cibernética é uma preocupação constante para empresas e indivíduos na era digital. A conscientização e a adoção de medidas de prevenção são essenciais para proteger dados confidenciais e evitar que eles caiam nas mãos erradas. Ao tomar precauções, podemos reduzir significativamente o risco de invasões de sistemas e vazamentos de informações.
+
+# 3. Principais Atividades de um Hacker Ético
+
+Um hacker ético desempenha um papel crucial na proteção da segurança cibernética de uma organização. Suas atividades abrangem uma série de tarefas especializadas que visam identificar e corrigir vulnerabilidades em sistemas e redes. Abaixo estão algumas das principais atividades realizadas por um hacker ético:
+
+### Avaliação de Vulnerabilidades
+
+A avaliação de vulnerabilidades é uma etapa fundamental no processo de garantia da segurança cibernética. O hacker ético utiliza uma variedade de ferramentas e técnicas para identificar brechas e fraquezas em sistemas, aplicativos e infraestrutura de TI. Isso pode incluir a análise de código-fonte, testes de penetração e varreduras de rede para identificar pontos fracos que possam ser explorados por invasores mal-intencionados. **Identificar vulnerabilidades** é o primeiro passo para fortalecer a postura de segurança de uma organização.
+
+### Avaliação de Risco
+
+Após identificar as vulnerabilidades, o hacker ético avalia o risco associado a cada uma delas. Isso envolve a análise do potencial impacto das vulnerabilidades na segurança e na operação da organização. O hacker ético classifica as vulnerabilidades com base em sua gravidade e probabilidade de exploração, ajudando a priorizar os esforços de mitigação e correção. **Avaliar o risco** permite que a organização aloque recursos de forma eficaz para proteger seus ativos mais críticos.
+
+### Auditoria de Segurança
+
+Uma auditoria de segurança é uma revisão abrangente dos controles de segurança de uma organização. O hacker ético realiza auditorias para garantir que as políticas, procedimentos e controles de segurança estejam alinhados com as melhores práticas e padrões da indústria. Isso pode envolver revisões de conformidade regulatória, testes de segurança física, revisões de políticas de acesso e muito mais. Uma auditoria de segurança ajuda a identificar lacunas na postura de segurança da organização e fornece recomendações para melhorias.
+
+### Pesquisa de Segurança
+
+A pesquisa de segurança é uma atividade contínua realizada pelo hacker ético para manter-se atualizado sobre as últimas tendências e técnicas de ataque. Isso inclui o estudo de novas vulnerabilidades, exploits e métodos de invasão que possam representar uma ameaça para as organizações. O hacker ético participa de comunidades de segurança, conferências e workshops para compartilhar conhecimento e colaborar com outros profissionais da área. A pesquisa de segurança é essencial para manter uma vantagem competitiva na batalha contra ameaças cibernéticas em constante evolução.
+
+### Testes de Intrusão
+
+Os testes de intrusão, também conhecidos como testes de penetração, são uma técnica utilizada pelo hacker ético para simular ataques cibernéticos contra os sistemas da organização. Isso envolve a tentativa controlada de explorar vulnerabilidades para identificar falhas de segurança e pontos fracos que possam ser explorados por invasores reais. Os testes de intrusão podem ser realizados de forma interna ou externa, simulando diferentes cenários de ataque. Os resultados dos testes de intrusão são utilizados para fortalecer as defesas de segurança e melhorar a resiliência dos sistemas contra ameaças.
+
+### Desenvolvimento de Políticas de Segurança
+
+Além das atividades técnicas, o hacker ético também desempenha um papel na elaboração e revisão de políticas de segurança da informação. Isso envolve a definição de diretrizes e procedimentos para proteger os ativos e dados sensíveis da organização contra ameaças internas e externas. O hacker ético trabalha em estreita colaboração com as partes interessadas para garantir que as políticas sejam claras, eficazes e aplicáveis às necessidades específicas da organização.
+
+### Conscientização e Treinamento
+
+Por fim, o hacker ético também desempenha um papel na conscientização e treinamento em segurança cibernética. Isso inclui a educação de funcionários e usuários sobre práticas seguras de computação, como reconhecer e relatar atividades suspeitas, proteger senhas e informações confidenciais, e estar ciente das últimas ameaças e ataques cibernéticos. O treinamento em segurança cibernética é essencial para criar uma cultura de segurança dentro da organização e reduzir o risco de violações de dados e comprometimento da segurança. **Promover a conscientização** é uma parte crucial do trabalho do hacker ético para proteger os ativos digitais de uma organização.
