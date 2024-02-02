@@ -142,3 +142,10 @@ Além das atividades técnicas, o hacker ético também desempenha um papel na e
 ### Conscientização e Treinamento
 
 Por fim, o hacker ético também desempenha um papel na conscientização e treinamento em segurança cibernética. Isso inclui a educação de funcionários e usuários sobre práticas seguras de computação, como reconhecer e relatar atividades suspeitas, proteger senhas e informações confidenciais, e estar ciente das últimas ameaças e ataques cibernéticos. O treinamento em segurança cibernética é essencial para criar uma cultura de segurança dentro da organização e reduzir o risco de violações de dados e comprometimento da segurança. **Promover a conscientização** é uma parte crucial do trabalho do hacker ético para proteger os ativos digitais de uma organização.
+
+Claro, aqui está o documento revisado com apenas os chapéus branco, preto e cinza:
+
+# 4. Tipos de Hacker (Hats)
+
+Um dos aspectos mais fascinantes e controversos do mundo da segurança cibernética é a diversidade de "chapéus" que os hackers podem vestir. Esses chapéus representam diferentes intenções e motivações por trás das atividades dos hackers. Desde aqueles que buscam proteger sistemas até os que procuram explorá-los para ganho pessoal, cada tipo de hacker desempenha um papel único no cenário da segurança digital.
+
