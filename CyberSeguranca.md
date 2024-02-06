@@ -149,3 +149,7 @@ Claro, aqui está o documento revisado com apenas os chapéus branco, preto e ci
 
 Um dos aspectos mais fascinantes e controversos do mundo da segurança cibernética é a diversidade de "chapéus" que os hackers podem vestir. Esses chapéus representam diferentes intenções e motivações por trás das atividades dos hackers. Desde aqueles que buscam proteger sistemas até os que procuram explorá-los para ganho pessoal, cada tipo de hacker desempenha um papel único no cenário da segurança digital.
 
+### Hacker Branco (White Hat)
+
+O Hacker Branco, muitas vezes chamado de "chapéu branco", é um defensor da segurança cibernética. Esses indivíduos utilizam suas habilidades técnicas para identificar vulnerabilidades em sistemas de computadores, redes e aplicativos. Em vez de explorar essas falhas para ganho pessoal, os hackers brancos trabalham em estreita colaboração com organizações ou empresas para corrigir essas vulnerabilidades, melhorando assim a segurança geral.
+
