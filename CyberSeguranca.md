@@ -157,3 +157,9 @@ O Hacker Branco, muitas vezes chamado de "chapéu branco", é um defensor da seg
 
 Em contraste com os hackers brancos, os Hackers Pretos, ou "chapéus pretos", têm intenções maliciosas. Eles exploram falhas de segurança para obter acesso não autorizado a sistemas, roubar informações confidenciais, interromper operações ou cometer crimes cibernéticos. Esses hackers são frequentemente associados a atividades ilegais, como roubo de identidade, fraudes financeiras e ataques cibernéticos em grande escala.
 
+### Hacker Cinza (Gray Hat)
+
+O Hacker Cinza opera em uma área moralmente ambígua entre os hackers brancos e pretos. Esses indivíduos podem realizar atividades que são legalmente questionáveis ou éticamente duvidosas, mas sem a intenção maliciosa associada aos hackers pretos. Por exemplo, um hacker cinza pode encontrar uma vulnerabilidade em um sistema e divulgar publicamente essa falha, mesmo sem a permissão do proprietário do sistema.
+
+Entendi, você deseja uma explicação sobre diferentes tipos de equipes e conceitos relacionados à segurança cibernética. Vou explicar cada um deles:
+
