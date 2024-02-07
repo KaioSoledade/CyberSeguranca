@@ -153,3 +153,7 @@ Um dos aspectos mais fascinantes e controversos do mundo da segurança cibernét
 
 O Hacker Branco, muitas vezes chamado de "chapéu branco", é um defensor da segurança cibernética. Esses indivíduos utilizam suas habilidades técnicas para identificar vulnerabilidades em sistemas de computadores, redes e aplicativos. Em vez de explorar essas falhas para ganho pessoal, os hackers brancos trabalham em estreita colaboração com organizações ou empresas para corrigir essas vulnerabilidades, melhorando assim a segurança geral.
 
+### Hacker Preto (Black Hat)
+
+Em contraste com os hackers brancos, os Hackers Pretos, ou "chapéus pretos", têm intenções maliciosas. Eles exploram falhas de segurança para obter acesso não autorizado a sistemas, roubar informações confidenciais, interromper operações ou cometer crimes cibernéticos. Esses hackers são frequentemente associados a atividades ilegais, como roubo de identidade, fraudes financeiras e ataques cibernéticos em grande escala.
+
