@@ -163,3 +163,9 @@ O Hacker Cinza opera em uma área moralmente ambígua entre os hackers brancos e
 
 Entendi, você deseja uma explicação sobre diferentes tipos de equipes e conceitos relacionados à segurança cibernética. Vou explicar cada um deles:
 
+# 5. Tipos de White Hat
+
+### Equipe Vermelha (Red Team)
+
+A Equipe Vermelha é uma equipe especializada em testes de penetração e simulação de ataques cibernéticos. Eles são contratados por organizações para testar a eficácia de suas defesas cibernéticas, realizando ataques controlados para identificar pontos fracos. O objetivo do hacker vermelho é ajudar as organizações a fortalecer sua segurança, fornecendo insights sobre como os invasores poderiam explorar suas vulnerabilidades.
+
