@@ -169,3 +169,7 @@ Entendi, você deseja uma explicação sobre diferentes tipos de equipes e conce
 
 A Equipe Vermelha é uma equipe especializada em testes de penetração e simulação de ataques cibernéticos. Eles são contratados por organizações para testar a eficácia de suas defesas cibernéticas, realizando ataques controlados para identificar pontos fracos. O objetivo do hacker vermelho é ajudar as organizações a fortalecer sua segurança, fornecendo insights sobre como os invasores poderiam explorar suas vulnerabilidades.
 
+### Equipe Azul (Blue Team)
+
+A Equipe Azul é uma equipe encarregada da defesa cibernética dentro de uma organização. Eles são responsáveis por monitorar a segurança da rede, detectar e responder a incidentes de segurança, e implementar medidas preventivas para proteger os sistemas contra ataques cibernéticos. Enquanto o Hacker Vermelho representa a equipe ofensiva, o Hacker Azul representa a equipe defensiva na dinâmica de segurança cibernética.
+
