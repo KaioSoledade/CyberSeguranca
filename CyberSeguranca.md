@@ -173,3 +173,7 @@ A Equipe Vermelha é uma equipe especializada em testes de penetração e simula
 
 A Equipe Azul é uma equipe encarregada da defesa cibernética dentro de uma organização. Eles são responsáveis por monitorar a segurança da rede, detectar e responder a incidentes de segurança, e implementar medidas preventivas para proteger os sistemas contra ataques cibernéticos. Enquanto o Hacker Vermelho representa a equipe ofensiva, o Hacker Azul representa a equipe defensiva na dinâmica de segurança cibernética.
 
+### Equipe Roxa (Purple Team)
+
+A Equipe Roxa é uma abordagem que busca integrar as equipes Vermelha e Azul para melhorar a segurança cibernética de uma organização. Essa integração envolve a colaboração entre as equipes ofensiva (Vermelha) e defensiva (Azul) para compartilhar conhecimentos, insights e práticas recomendadas. A equipe roxa trabalha em conjunto para identificar vulnerabilidades, melhorar a detecção de ameaças e fortalecer as defesas cibernéticas da organização.
+
