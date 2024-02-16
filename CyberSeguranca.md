@@ -177,3 +177,7 @@ A Equipe Azul é uma equipe encarregada da defesa cibernética dentro de uma org
 
 A Equipe Roxa é uma abordagem que busca integrar as equipes Vermelha e Azul para melhorar a segurança cibernética de uma organização. Essa integração envolve a colaboração entre as equipes ofensiva (Vermelha) e defensiva (Azul) para compartilhar conhecimentos, insights e práticas recomendadas. A equipe roxa trabalha em conjunto para identificar vulnerabilidades, melhorar a detecção de ameaças e fortalecer as defesas cibernéticas da organização.
 
+### Investigação Forense Digital
+
+A Investigação Forense Digital é o processo de coleta, preservação e análise de evidências digitais relacionadas a incidentes de segurança cibernética. Essa investigação visa determinar a causa raiz de um incidente, identificar os sistemas ou dados comprometidos e ajudar na identificação e responsabilização dos invasores. Os investigadores forenses digitais utilizam uma variedade de técnicas e ferramentas para examinar dispositivos, redes e sistemas em busca de evidências digitais relevantes.
+
